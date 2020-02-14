@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>urgent</string>
+		<string>급하다</string>
+		<string>You are too urgent.</string>
+		<string>넌 너무 급한거야.</string>
+	</array>
+	<array>
+		<string>disbelieve</string>
+		<string>불신</string>
+		<string>I disbelieve you.</string>
+		<string>나는 너를 불신해.</string>
+	</array>
+	<array>
+		<string>rapidly</string>
+		<string>빠르게, 급속히</string>
+		<string>Fly rapidly</string>
+		<string>급속히 날다</string>
+	</array>
+	<array>
+		<string>separate</string>
+		<string>갈라진, 분리된</string>
+		<string>Korea is separated.
+</string>
+		<string>한국은 분리되어 있다.</string>
+	</array>
+	<array>
+		<string>enchanted</string>
+		<string>마법에 걸린</string>
+		<string>He is enchanted.</string>
+		<string>그는 마법에 걸렸어.</string>
+	</array>
+	<array>
+		<string>magnificent</string>
+		<string>장엄한</string>
+		<string>This scene is so magnificent.
+</string>
+		<string>이 장면은 정말 장엄해.</string>
+	</array>
+	<array>
+		<string>rather</string>
+		<string>차라리</string>
+		<string>I&apos;d rather die.
+I&apos;d rather die.
+I&apos;d rather die.
+</string>
+		<string>차라리 죽는 게 낫겠어.</string>
+	</array>
+	<array>
+		<string>period</string>
+		<string>기간</string>
+		<string>You must keep the period.</string>
+		<string>당신은 반드시 기간을 지켜야 합니다.</string>
+	</array>
+	<array>
+		<string>almighty</string>
+		<string>전능자</string>
+		<string>He is the Almighty.</string>
+		<string>그는 전능자야.</string>
+	</array>
+	<array>
+		<string>penetrate</string>
+		<string>관통하는</string>
+		<string>This bullet penetrated his head.</string>
+		<string>이 총알은 그의 머리를 관통했어.</string>
+	</array>
+	<array>
+		<string>ashes</string>
+		<string>재</string>
+		<string>I&apos;m about to cough because of ashes.</string>
+		<string>나는 재 때문에 기침이 나오려고 해.</string>
+	</array>
+	<array>
+		<string>chuckle</string>
+		<string>킬킬 웃다</string>
+		<string>Don&apos;t chuckle.</string>
+		<string>웃지 마.</string>
+	</array>
+	<array>
+		<string>somber</string>
+		<string>침울한</string>
+		<string>He is very somber.</string>
+		<string>그는 매우 우울합니다.</string>
+	</array>
+	<array>
+		<string>hesitated</string>
+		<string>주저하는</string>
+		<string>Do not hesitate, do it now.</string>
+		<string>주저하지 말고, 지금 당장 해.</string>
+	</array>
+	<array>
+		<string>chabby</string>
+		<string>초라한</string>
+		<string>This house is too shabby</string>
+		<string>이 집은 너무 초라해.</string>
+	</array>
+	<array>
+		<string>shelf</string>
+		<string>선반</string>
+		<string>Be careful not to let things fall off the shelf.
+Be careful not to let things fall off the shelf.
+</string>
+		<string>물건을 선반에서 떨어 뜨리지 않도록주의하십시오.</string>
+	</array>
+	<array>
+		<string>certain</string>
+		<string>어떤</string>
+		<string>Certain car went in there!</string>
+		<string>어떤 차가 거기 들어갔어!</string>
+	</array>
+	<array>
+		<string>triumph</string>
+		<string>승리</string>
+		<string>We triumph!</string>
+		<string>우리는 승리한다!</string>
+	</array>
+	<array>
+		<string>pollution</string>
+		<string>오염</string>
+		<string>The water is getting polluted.</string>
+		<string>물이 오염되고 있습니다.</string>
+	</array>
+	<array>
+		<string>prairie</string>
+		<string>대초원</string>
+		<string>There are many prairies in the US.</string>
+		<string>미국에는 대초원이 많아.</string>
+	</array>
+	<array>
+		<string>comfort</string>
+		<string>안락</string>
+		<string>It&apos;s very comfortable here.</string>
+		<string>여기는 매우 안락해.</string>
+	</array>
+	<array>
+		<string>incident</string>
+		<string>사건</string>
+		<string>The incident happend!</string>
+		<string>사건이 일어났어!</string>
+	</array>
+	<array>
+		<string>experience</string>
+		<string>경험</string>
+		<string>Your experience is high.</string>
+		<string>너는 경험 수준이 높아.</string>
+	</array>
+	<array>
+		<string>culture</string>
+		<string>문화, 교양</string>
+		<string>Korean culture is very good.</string>
+		<string>한국 문화는 매우 훌륭합니다.</string>
+	</array>
+	<array>
+		<string>value</string>
+		<string>값</string>
+		<string>What is balue?</string>
+		<string>값이 뭐야?</string>
+	</array>
+	<array>
+		<string>Homework</string>
+		<string>숙제</string>
+		<string>It will be a lot of homework</string>
+		<string>숙제가 많이 있을거야.</string>
+	</array>
+	<array>
+		<string>Phone</string>
+		<string>전화기</string>
+		<string>Don&apos;t use you smart phone.</string>
+		<string>너의 스마트폰을 쓰지 마.</string>
+	</array>
+	<array>
+		<string>classmate</string>
+		<string>교실 친구</string>
+		<string>Play with your classmates</string>
+		<string>너의 교실 친구들과 놀아.</string>
+	</array>
+	<array>
+		<string>convenience</string>
+		<string>편의</string>
+		<string>It is very convenient to pay by credit card.</string>
+		<string>신용 카드로 지불하는 것은 대단히 편리하다.
+신용 카드로 지불하는 것은 대단히 편리하다.
+신용 카드로 지불하는 것은 대단히 편리하다.
+신용 카드로 지불하는 것은 대단히 편리하다.</string>
+	</array>
+	<array>
+		<string>criticism</string>
+		<string>비판</string>
+		<string>self-criticism</string>
+		<string>자기비판</string>
+	</array>
+	<array>
+		<string>resistance</string>
+		<string>저항</string>
+		<string>resistance to change</string>
+		<string>변화에 대한 저항</string>
+	</array>
+	<array>
+		<string>hardship</string>
+		<string>고난</string>
+		<string>financial hardship</string>
+		<string>경제적 어려움</string>
+	</array>
+	<array>
+		<string>influence</string>
+		<string>영향</string>
+		<string>What exactly is the influence of television on children?</string>
+		<string>텔레비전이 아동들에게 미치는 영향은 정확히 어떤 것일까?</string>
+	</array>
+	<array>
+		<string>disgrace</string>
+		<string>불명예</string>
+		<string>Sam was in disgrace with his parents.</string>
+		<string>샘은 부모님에게 망신스러운 자식이었다.</string>
+	</array>
+	<array>
+		<string>psychology</string>
+		<string>심리학</string>
+		<string>Psychology is difficult.</string>
+		<string>심리학은 어렵습니다.</string>
+	</array>
+	<array>
+		<string>hypocrisy</string>
+		<string>위선</string>
+		<string>You are a hypocrite.</string>
+		<string>너는 위선자야.</string>
+	</array>
+	<array>
+		<string>calamity</string>
+		<string>재앙</string>
+		<string>He is a calamity.</string>
+		<string>그는 재앙입니다.</string>
+	</array>
+	<array>
+		<string>fatigue</string>
+		<string>피로</string>
+		<string>I feel fatigue</string>
+		<string>나는 피로감을 느낀다.</string>
+	</array>
+	<array>
+		<string>jealousy</string>
+		<string>질투</string>
+		<string>I feel jealousy.</string>
+		<string>나는 질투심을 느낀다.</string>
+	</array>
+	<array>
+		<string>stimulus</string>
+		<string>자극</string>
+		<string>I feel stimulus.</string>
+		<string>나는 자극을 느낀다.</string>
+	</array>
+	<array>
+		<string>conscience</string>
+		<string>양심</string>
+		<string>Keep your conscience.</string>
+		<string>너의 양심을 지켜.</string>
+	</array>
+	<array>
+		<string>lecture</string>
+		<string>강의</string>
+		<string>Today I received two lectures.</string>
+		<string>나는 오늘 두 번의 강의를 받았어.</string>
+	</array>
+	<array>
+		<string>received</string>
+		<string>받다</string>
+		<string>I received present.</string>
+		<string>나는 선물을 받았다.</string>
+	</array>
+	<array>
+		<string>impress</string>
+		<string>감명을 주다</string>
+		<string>Your lecture impressed me.</string>
+		<string>너의 강의가 나를 감명시켰어.</string>
+	</array>
+	<array>
+		<string>guess</string>
+		<string>추측하다</string>
+		<string>Let&apos;s guess...</string>
+		<string>추측해 보자...</string>
+	</array>
+	<array>
+		<string>gather</string>
+		<string>모으다</string>
+		<string>Gather stamp</string>
+		<string>도장을 모으다</string>
+	</array>
+	<array>
+		<string>discuss</string>
+		<string>회의하다</string>
+		<string>Let&apos;s discuss with me.</string>
+		<string>나랑 상의하자.</string>
+	</array>
+	<array>
+		<string>consist</string>
+		<string>구성하다</string>
+		<string>Water consist by C and O.</string>
+		<string>물은 탄소와 산소로 구성된다.</string>
+	</array>
+	<array>
+		<string>admire</string>
+		<string>존경하다</string>
+		<string>Admire him.</string>
+		<string>그를 존경하라.</string>
+	</array>
+	<array>
+		<string>idle</string>
+		<string>게으른</string>
+		<string>You are so idle.</string>
+		<string>너는 너무 게을러.</string>
+	</array>
+	<array>
+		<string>diligent</string>
+		<string>부지런한</string>
+		<string>You are so diligent.</string>
+		<string>너는 너무 부지런해.</string>
+	</array>
+	<array>
+		<string>calm</string>
+		<string>침착한</string>
+		<string>Stay calm ... Stay calm ...</string>
+		<string>침착해...침착해...</string>
+	</array>
+	<array>
+		<string>relative</string>
+		<string>친척</string>
+		<string>Let&apos;s go to relatives.
+Let&apos;s go to relatives.
+</string>
+		<string>친척에게 가자.</string>
+	</array>
+	<array>
+		<string>refrigerator</string>
+		<string>냉장고</string>
+		<string>LG refrigerator is better than Samsung refrigerator.</string>
+		<string>LG 냉장고는 Samsung 냉장고보다 낫다.</string>
+	</array>
+	<array>
+		<string>Sympathy</string>
+		<string>공감</string>
+		<string>I sympathize with you.
+I sympathize with you.
+</string>
+		<string>나는 너에게 공감해.</string>
+	</array>
+	<array>
+		<string>opinion</string>
+		<string>의견</string>
+		<string>Speak your opinion.</string>
+		<string>당신의 의견을 말하십시오.</string>
+	</array>
+	<array>
+		<string>law</string>
+		<string>법률</string>
+		<string>Keep the law.</string>
+		<string>법을 지켜라.</string>
+	</array>
+	<array>
+		<string>invitation</string>
+		<string>초대, 초대장</string>
+		<string>I&apos;ll give you a invitation.</string>
+		<string>내가 너에게 초대장을 줄게.</string>
+	</array>
+	<array>
+		<string>instance</string>
+		<string>사례</string>
+		<string>Give me an instance of it.</string>
+		<string>나에게 그것의 사례를 제시해 봐.</string>
+	</array>
+	<array>
+		<string>industry</string>
+		<string>산업</string>
+		<string>Start the industry.</string>
+		<string>산업을 시작해.</string>
+	</array>
+	<array>
+		<string>harvest</string>
+		<string>수확</string>
+		<string>We will harvest in the fall.</string>
+		<string>우리는 가을에 추수할 거야.</string>
+	</array>
+	<array>
+		<string>habit</string>
+		<string>습관</string>
+		<string>Fix that habit.</string>
+		<string>그 습관을 고쳐.</string>
+	</array>
+	<array>
+		<string>furniture</string>
+		<string>가구</string>
+		<string>That furniture is expensive. Be careful.</string>
+		<string>그 가구 비싼 거야. 조심해.</string>
+	</array>
+	<array>
+		<string>foreigner</string>
+		<string>외국인</string>
+		<string>Are you foreigner?</string>
+		<string>너 외국인이야?</string>
+	</array>
+	<array>
+		<string>experience</string>
+		<string>노력</string>
+		<string>You must experience.</string>
+		<string>넌 노력해야만 해.</string>
+	</array>
+	<array>
+		<string>doubt</string>
+		<string>의심</string>
+		<string>You must doubt surroundings.</string>
+		<string>당신은 주변을 의심해야만 합니다.</string>
+	</array>
+	<array>
+		<string>dumb</string>
+		<string>벙어리의</string>
+		<string>She was dumb from birth.</string>
+		<string>그녀는 태어날 때부터 말하지 못했다.</string>
+	</array>
+	<array>
+		<string>deaf</string>
+		<string>들을 수 없는</string>
+		<string>She was deaf from birth.</string>
+		<string>그녀는 태어날 때부터 듣지 못했다.</string>
+	</array>
+	<array>
+		<string>act</string>
+		<string>행동하다</string>
+		<string>Act quick!</string>
+		<string>빨리 행동해!</string>
+	</array>
+	<array>
+		<string>appointment</string>
+		<string>약속</string>
+		<string>Keep an appointment.</string>
+		<string>약속 지켜.</string>
+	</array>
+	<array>
+		<string>capital</string>
+		<string>자본</string>
+		<string>I have a lot of capital.</string>
+		<string>나는 자본이 많다.</string>
+	</array>
+	<array>
+		<string>cause</string>
+		<string>원인</string>
+		<string>You are cause.</string>
+		<string>네가 원인이야.</string>
+	</array>
+	<array>
+		<string>direction</string>
+		<string>방향</string>
+		<string>Keep your direction.</string>
+		<string>당신의 방향을 지키십시오.</string>
+	</array>
+</array>
+</plist>
